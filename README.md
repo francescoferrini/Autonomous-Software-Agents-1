@@ -5,4 +5,4 @@ This project comes from the Autonomous Software Agents course in the University 
 ### Single Agent PDDL
 ### Multi Agent PDDL
 
-The methodology for the resolution of both the approachees is defined in the report
+The methodology for the resolution of both the approaches is defined in the report
